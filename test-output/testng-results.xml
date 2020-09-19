@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86755" started-at="2020-09-19T18:38:50 IST" finished-at="2020-09-19T18:40:17 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86755" started-at="2020-09-19T18:38:50 IST" finished-at="2020-09-19T18:40:17 IST">
+      <class name="TestApplication.smallCase">
+        <test-method status="PASS" signature="LaunchHome()[pri:1, instance:TestApplication.smallCase@262b2c86]" name="LaunchHome" duration-ms="21543" started-at="2020-09-19T18:38:50 IST" finished-at="2020-09-19T18:39:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchHome -->
+        <test-method status="PASS" signature="setEnvGetid()[pri:2, instance:TestApplication.smallCase@262b2c86]" name="setEnvGetid" duration-ms="10769" started-at="2020-09-19T18:39:12 IST" finished-at="2020-09-19T18:39:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnvGetid -->
+        <test-method status="PASS" signature="sst()[pri:3, instance:TestApplication.smallCase@262b2c86]" name="sst" duration-ms="23127" started-at="2020-09-19T18:39:22 IST" finished-at="2020-09-19T18:39:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sst -->
+        <test-method status="PASS" signature="webPage()[pri:4, instance:TestApplication.smallCase@262b2c86]" name="webPage" duration-ms="31253" started-at="2020-09-19T18:39:46 IST" finished-at="2020-09-19T18:40:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webPage -->
+      </class> <!-- TestApplication.smallCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
